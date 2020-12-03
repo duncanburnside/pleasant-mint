@@ -5,7 +5,7 @@
     "header": {
         "title": "Fjord",
         "tagline": "Minimal and clean blog theme",
-        "logo_img": "images/logo.png",
+        "logo_img": "images/ca-logo.png",
         "background_img": "images/compressor.jpg",
         "has_nav": true,
         "nav_links": [
