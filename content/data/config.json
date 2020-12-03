@@ -4,7 +4,7 @@
     "description": "A minimal blogging theme for Stackbit",
     "header": {
         "title": "Culter Associates",
-        "tagline": "Minimal and clean blog theme",
+        "tagline": "Culter Associates",
         "logo_img": "images/ca-logo.png",
         "background_img": "images/compressor.jpg",
         "has_nav": false,
